@@ -33,7 +33,7 @@ Installation
 3. Install the required dependencies:
    pip install -r requirements.txt
 
-4. Set up environment variables if needed (e.g., API keys).
+4. Set up environment variables if needed
 
 Usage
 1. Run the Flask application:
